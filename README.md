@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**StruanMclean/StruanMclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project called AceAi.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on the chat in one of my repositorys.
 - 😄 Pronouns: pine/apple.
 - ⚡ Fun fact: i lke to eat dogs...
--->
+
