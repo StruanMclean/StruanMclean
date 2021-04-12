@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: pine/apple.
 - ⚡ Fun fact: i lke to eat dogs...
 
+languages i know
+
+- python
+- learning es6
+- learning html and css
