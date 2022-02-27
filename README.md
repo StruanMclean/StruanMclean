@@ -8,3 +8,4 @@ languages i know
 - c
 - c#
 - lua
+- rust
