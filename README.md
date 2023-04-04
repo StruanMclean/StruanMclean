@@ -15,4 +15,4 @@ I know how to use!
 - Go
 
 Get into contact with me via my twitter
-[Link to my twitter]()
+[Link to my twitter](https://twitter.com/Struan_Mclean)
