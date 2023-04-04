@@ -1,6 +1,15 @@
 ### Hi there 👋
-languages i know
+I know how to use!
 
-- python
-- html and css
-- javascript
+- Python3
+- Cython
+- Next.js
+- Svelte
+- TypeScript
+- JavaScript
+- Docker
+- React Native
+- React.js
+- Bash
+- Dart
+- Go
