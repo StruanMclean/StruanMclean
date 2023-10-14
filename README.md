@@ -13,6 +13,3 @@ I know how to use!
 - Bash
 - Dart
 - Go
-
-Get into contact with me via my twitter
-[Link to my twitter](https://twitter.com/Struan_Mclean)
