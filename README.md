@@ -2,7 +2,6 @@
 I know how to use!
 
 - Python3
-- Cython
 - Next.js
 - Svelte
 - TypeScript
@@ -11,5 +10,4 @@ I know how to use!
 - React Native
 - React.js
 - Bash
-- Dart
-- Go
+- C++
