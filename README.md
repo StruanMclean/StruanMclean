@@ -9,5 +9,4 @@ I know how to use!
 - Docker
 - React Native
 - React.js
-- Bash
 - C++
